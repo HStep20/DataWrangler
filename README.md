@@ -4,7 +4,7 @@ Inspired by a non-profit organization in Colorado focused on preserving local hi
 
 This project was created for a senior capstone course required for students to graduate from a Colorado university. One of the primary focuses of the project was to spend a lot of time considering the use cases of the software, and to design the architecture to support current and future use cases. This taught our team a lot, and I am grateful for this experience.
 
-This software wouldn't have been possible without the rest of the team ([Aaron Skilling](https://github.com/askilling) and [Hunter Stephens](https://github.com/HsStep20)). Thanks to the [LiteDB](http://www.litedb.org/) team for providing such an elegant solution for accessing NoSQL Document Stores with little overhead (and with great C# integration!).
+This software wouldn't have been possible without the rest of the team ([Aaron Skilling](https://github.com/askilling) and [Hunter Stephens](https://github.com/HStep20)). Thanks to the [LiteDB](http://www.litedb.org/) team for providing such an elegant solution for accessing NoSQL Document Stores with little overhead (and with great C# integration!).
 
 _Landing Screen_
 
